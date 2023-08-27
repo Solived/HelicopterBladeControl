@@ -1,22 +1,24 @@
 # HelicopterBladeControl
 A unique FiveM Server-side resource script which allows you to control any helicopter rotors blade speed &amp; engine power.
-Author: **Solived**, with the help of ChatGPT.
+### Author: **Solived**, with the help of ChatGPT.
+### Type: **FiveM Server-Sided**, **STANDALONE**.
+### Price: **COMPLETELY FREE!**
 
 ## You're more than welcome DMing me in Discord `@solived` if you've got any questions or further offers, I would warmly give a response soon as possible.
 
 # Very Important notice for **Advanced LUA Script FiveM Developers**:
-- If you have an Advanced LUA Script coding knowledge & experience please contact me on Discord which is written above.
-- I'm planning on fixing the current bugs and adding what's in the W.I.P list to make this script better.
-- Furthermore, this resource will be completely free and available in [https://forum.cfx.re/c/development/releases] + my GitHUB page, full credits will be granted to contributers.
+- Greetings! if you are an advanced LUA Script coder and/or you have enough experience with LUA, please contact me on Discord right away which is written above so I can start do team-work as I plan to.
+- I'm planning on fixing the current bugs that's listed below & update this free resource through add what's in the W.I.P list below.
+- Furthermore, this resource will be completely free and available in [https://forum.cfx.re/c/development/releases] + my GitHUB page, full credits will be granted to any contributers out there.
 - One last thing, before you hesitate asking me for a real money payment in return for helping me I'd warmly suggest you find someone else to be getting paid for, this is a gaming community not an online store.
 
-# Work In Progress:
-1. Sync the current rotor blade speed visibility with players sitting INSIDE the helicopter.
-2. Sync the current rotor blade speed visibility with players OUTSIDE of the helicopter.
-3. Disallow to begin spinning the helicopter rotor blades when the engine is off.
-4. Set a specific keybind (for example: 8) to toggle the helicopter engines.
-5. Advanced HUD Display for current helicopter rotor blade speed.
-6. Maybe a few useful notifications like 'Engine is ON/OFF' or 'Reached MIN/MAX Rotor blade speed (0% | 100%).
+# Update Plannings & Work In Progress:
+1. Sync the current rotor blade speed visibility with players **sitting INSIDE the helicopter**.
+2. Sync the current rotor blade speed visibility with players **OUTSIDE of the helicopter**.
+3. **Disallow** to begin spinning the helicopter rotor blades **when the engine is off.**
+4. Set a specific keybind (for example: 8) to **toggle the helicopter engines**.
+5. **Advanced HUD Display** for current helicopter rotor blade speed.
+6. Maybe add a few useful notifications like 'Engine is ON/OFF' or 'Reached MIN/MAX Rotor blade speed (0% | 100%).
 7. Special: Do the same idea but for Airplanes & Jets separated.
 
 # Keybinds & Controls:
