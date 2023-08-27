@@ -1,8 +1,8 @@
 # HelicopterBladeControl
 A unique FiveM Server-side resource script which allows you to control any helicopter rotors blade speed &amp; engine power.
-### Author: **Solived**, with the help of ChatGPT.
-### Type: **FiveM Server-Sided**, **STANDALONE**.
-### Price: **COMPLETELY FREE!**
+- Author: **Solived**, with the help of ChatGPT.
+- Type: **FiveM Server-Sided**, **STANDALONE**.
+- Price: **COMPLETELY FREE!**
 
 ## You're more than welcome DMing me in Discord `@solived` if you've got any questions or further offers, I would warmly give a response soon as possible.
 
