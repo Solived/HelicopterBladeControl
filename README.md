@@ -8,7 +8,7 @@ A unique FiveM Server-side resource script which allows you to control any helic
 
 # Very Important notice for **Advanced LUA Script FiveM Developers**:
 - Greetings! if you are an advanced LUA Script coder and/or you have enough experience with LUA, please contact me on Discord right away which is written above so I can start do team-work as I plan to.
-- I'm planning on fixing the current bugs that's listed below & update this free resource through add what's in the W.I.P list below.
+- I am planning on fixing the current bugs that's listed below & update this free resource through add what's in the W.I.P list below.
 - Furthermore, this resource will be completely free and available in [https://forum.cfx.re/c/development/releases] + my GitHUB page, full credits will be granted to any contributers out there.
 - One last thing, before you hesitate asking me for a real money payment in return for helping me I'd warmly suggest you find someone else to be getting paid for, this is a gaming community not an online store.
 
