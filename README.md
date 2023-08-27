@@ -30,8 +30,8 @@ A unique FiveM Server-side resource script which allows you to control any helic
 - If you want to modify the amount of engine power given/removed each time the arrow keys is pressed, do the following:
 1. Open `client.lua`
 2. Head to code lines `24` and `26`
-3. Locate the number value '0.005' and replace it with whatever you'd like.
-4. Restart script `HelicopterBladeControl`, it is recommended **NOT** to choose a higher number than `0.1` for the realistic experience.
+3. Locate the number value `0.005` and replace it with whatever you'd like.
+4. Restart script `HelicopterBladeControl`, it is recommended **NOT** to choose a higher number than **0.1** for the realistic experience.
 
 # Known Bugs & Issues:
 - Current rotor blade speed visibility is **NOT Synced** with players **sitting INSIDE**, Same for being **OUTSIDE** of the helicopter.
