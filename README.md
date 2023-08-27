@@ -1,13 +1,14 @@
 # HelicopterBladeControl
 A unique FiveM Server-side resource script which allows you to control any helicopter rotors blade speed &amp; engine power.
+Author: **Solived**, with the help of ChatGPT.
 
-## Please contact [**@solived**] on Discord if you have any questions.
+## You're more than welcome DMing me in Discord `@solived` if you've got any questions or further offers, I would warmly give a response soon as possible.
 
 # Very Important notice for **Advanced LUA Script FiveM Developers**:
 - If you have an Advanced LUA Script coding knowledge & experience please contact me on Discord which is written above.
 - I'm planning on fixing the current bugs and adding what's in the W.I.P list to make this script better.
-- Furthermore, this resource will be completely free and available in [https://forum.cfx.re/c/development/releases].
-- If you're looking for payment in return for help me, find someone else to get paid for, this is a gaming community not an online store.
+- Furthermore, this resource will be completely free and available in [https://forum.cfx.re/c/development/releases] + my GitHUB page, full credits will be granted to contributers.
+- One last thing, before you hesitate asking me for a real money payment in return for helping me I'd warmly suggest you find someone else to be getting paid for, this is a gaming community not an online store.
 
 # Work In Progress:
 1. Sync the current rotor blade speed visibility with players sitting INSIDE the helicopter.
